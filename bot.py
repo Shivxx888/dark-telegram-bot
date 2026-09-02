@@ -18,7 +18,7 @@ from telegram.ext import (
 # ----------------------------
 # CONFIGURATION
 # ----------------------------
-BOT_TOKEN = "8626583730:AAEIdxMaGfrARWCnHlqI6-5Ov4F6HmAVXAM"
+BOT_TOKEN = "8626583730:AAHCpG2fBVt2vEf9WRlRKVJbC3UQsFLDqdY"
 BOT_OWNER = "@shivxx"
 
 # Payment Details
